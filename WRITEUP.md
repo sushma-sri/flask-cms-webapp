@@ -5,8 +5,8 @@
 *I would choose an App Service
 
 # Azure Pricing
--*Azure Pricing for App Service is generally less than the Pricing for VM's.
--*App Services cost less than VMs do
+- Azure Pricing for App Service is generally less than the Pricing for VM's.
+- App Services cost less than VMs do
 
 # Scalability
 -*Scale limit is generally less for the App Services compared to VM's.
