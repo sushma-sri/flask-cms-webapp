@@ -12,4 +12,6 @@
 
 ### Assess app changes that would change your decision.
 
-*Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
+*If there is a vast increase in the number of users
+*If there is a need for dedicated servers for handling sensitive information.
+*It may be necessary in the future if many more features are added then scaling is required.
